@@ -1,7 +1,7 @@
 /**
  * Particleground
  *
- * @author Jonathan Nicol - @mrjnicol
+ * @author liuqian
  * @version 1.0.1
  * @description Creates a canvas based particle system background
  *
